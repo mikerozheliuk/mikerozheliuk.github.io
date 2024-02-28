@@ -6,6 +6,7 @@
 }
 
 .grid {
+  text-align: center;
   padding: 20px 30px;
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
@@ -24,4 +25,16 @@
 
 .grid__image img:hover {
   transform: scale(1.05);
+}
+
+@media (max-width: 551px) {
+  .portfolio {
+    padding-top: 20px;
+    padding-bottom: 25px;
+    font-size: 32px;
+  }
+
+  .grid {
+    padding: 10px;
+  }
 }
