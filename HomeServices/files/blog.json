@@ -1,0 +1,95 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "image": "img/blog/Thumbnail.jpg",
+      "title": "Understanding Smart Home Systems & Maintenance",
+      "url": "https//https://www.youtube.com/watch?v=FQgegi1oYq8",
+      "date": "19 Jan 2023",
+      "text": " scover the ultimate guide to troubleshooting common smart home issues in our latest blog",
+      "tags": {
+        "Plumbing": "https//https://www.youtube.com",
+        "Architecture": "https//https://www.youtube.com",
+        "Maintenance": "https//https://www.youtube.com"
+      }
+    },
+
+    {
+      "id": 2,
+      "image": "img/blog/2.jpeg",
+      "title": "The Ultimate Guide to Home Repairs and Renovations",
+      "url": "https//https://www.youtube.com/watch?v=FQgegi1oYq8",
+      "date": "1 Jan 2023",
+      "text": " scover the ultimate guide to troubleshooting common smart home issues in our latest blog",
+      "tags": {
+        "Plumbing": "https//https://www.youtube.com",
+
+        "Maintenance": "https//https://www.youtube.com"
+      }
+    },
+
+    {
+      "id": 3,
+      "image": "img/blog/3.jpeg",
+      "title": "Painting Techniques for a Kitchen Refresh",
+      "url": "https//https://www.youtube.com/watch?v=FQgegi1oYq8",
+      "date": "25 Jan 2023",
+      "text": " scover the ultimate  to troubleshooting common smart home issues in our latest blog",
+      "tags": {
+        "Plumbing": "https//https://www.youtube.com",
+        "Architecture": "https//https://www.youtube.com"
+      }
+    },
+
+    {
+      "id": 4,
+      "image": "img/blog/3.jpeg",
+      "title": "Painting Techniques for a Kitchen Refresh",
+      "url": "https//https://www.youtube.com/watch?v=FQgegi1oYq8",
+      "date": "25 Jan 2023",
+      "text": " scover the ultimate  to troubleshooting common smart home issues in our latest blog",
+      "tags": {
+        "Plumbing": "https//https://www.youtube.com",
+        "Architecture": "https//https://www.youtube.com",
+        "Architectue": "https//https://www.youtube.com",
+        "Architture": "https//https://www.youtube.com"
+      }
+    },
+
+    {
+      "id": 5,
+      "image": "img/blog/2.jpeg",
+      "title": "Painting Techniques for a Kitchen Refresh",
+      "url": "https//https://www.youtube.com/watch?v=FQgegi1oYq8",
+      "date": "25 Jan 2023",
+      "text": " scover the ultimate  to troubleshooting common smart home issues in our latest blog",
+      "tags": {
+        "Architture": "https//https://www.youtube.com"
+      }
+    },
+
+    {
+      "id": 6,
+      "image": "img/blog/3.jpeg",
+      "title": "Painting Techniques for a Kitchen Refresh",
+      "url": "https//https://www.youtube.com/watch?v=FQgegi1oYq8",
+      "date": "21 Jan 2023",
+      "text": " scover the ultimate  to troubleshooting common smart home issues in our latest blog",
+      "tags": {
+        "Architture": "https//https://www.youtube.com"
+      }
+    },
+
+    {
+      "id": 7,
+      "image": "img/blog/2.jpeg",
+      "title": "Painting Techniques for a Kitchen Refresh",
+      "url": "https//https://www.youtube.com/watch?v=FQgegi1oYq8",
+      "date": "2 Jan 2013",
+      "text": " scover the ultimate  to troubleshooting common smart home issues in our latest blog",
+      "tags": {
+        "Architture": "https//https://www.youtube.com"
+      }
+    }
+  ]
+}
